@@ -1,8 +1,11 @@
-Vim syntax file for msmtprc files
+# msmtp.vim
 
-Copyright (C) 2008  Simon Ruderich <simon@ruderich.com>
-License: GPL version 3 or later
+Syntax highlighting for msmtp
 
-To use this syntax file:
-- copy it to ~/.vim/syntax/msmtp.vim
-- in vim: 'set filetype=msmtp'
+## Installation
+
+I recommend [vim-plug][vim-plug]. If not, use your preferred method.
+
+```
+Plug 'chunkhang/msmtp.vim'
+```
