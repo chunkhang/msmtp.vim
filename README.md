@@ -1,6 +1,6 @@
 # msmtp.vim
 
-Syntax highlighting for msmtp
+Syntax highlighting for msmtprc
 
 ## Installation
 
